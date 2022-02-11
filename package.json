@@ -19,7 +19,7 @@
 	"homepage": "https://github.com/yebrandon/express-crash-course#readme",
 	"dependencies": {
 		"express": "^4.17.1",
-		"express-handlebars": "^4.0.3",
+		"express-handlebars": "^5.3.1",
 		"moment": "^2.24.0",
 		"react-uuid": "^1.0.2",
 		"uuid": "^7.0.3"
